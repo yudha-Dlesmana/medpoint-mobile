@@ -8,17 +8,17 @@ Flutter dan Dart.
 
 ### Project Structure 
 medpoint_mobile
--**├── analysis_options.yaml**        
--**├── android/**               
--**├── ios/**
--**├── lib/**
--**│   └── main.dart**
--**├── linux/**
--**├── macos/**
--**├── test/**
--**│   └── widget_test.dart**
--**├── web/**
--**├── windows/**
--**├── pubspec.yaml**
--**├── pubspec.lock**
--**└── README.md**
+- **├── analysis_options.yaml**        
+- **├── android/**               
+- **├── ios/**
+- **├── lib/**
+- **│   └── main.dart**
+- **├── linux/**
+- **├── macos/**
+- **├── test/**
+- **│   └── widget_test.dart**
+- **├── web/**
+- **├── windows/**
+- **├── pubspec.yaml**
+- **├── pubspec.lock**
+- **└── README.md**
