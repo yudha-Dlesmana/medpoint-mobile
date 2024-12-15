@@ -1,16 +1,27 @@
-# medpoint_mobile
+# Introduction
 
-A new Flutter project.
+Aplikasi reservasi medis online mobile yang menyediakan fitur booking dan pembatalan reservasi,
 
-## Getting Started
+## technology
 
-This project is a starting point for a Flutter application.
+Flutter dan Dart.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Project Structure 
+nama_project/
+├── android/             
+├── ios/                 
+├── lib/                 
+│   └── main.dart        
+├── test/                
+│   └── widget_test.dart 
+├── web/                 
+├── linux/               
+├── macos/               
+├── windows/             
+├── build/               
+├── .gitignore           
+├── .metadata            
+├── .packages            
+├── pubspec.yaml         
+├── pubspec.lock         
+└── README.md            
